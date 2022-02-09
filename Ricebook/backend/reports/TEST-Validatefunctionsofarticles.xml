@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Validate functions of articles" errors="0" tests="5" failures="0" time="0.411" timestamp="2021-11-18T20:33:24">
+  <testcase classname="Validate functions of articles" name="login" time="0.075"></testcase>
+  <testcase classname="Validate functions of articles" name="validate POST /article" time="0.094"></testcase>
+  <testcase classname="Validate functions of articles" name="validate GET /articles" time="0.143"></testcase>
+  <testcase classname="Validate functions of articles" name="validate GET /articles/id(user)" time="0.094"></testcase>
+  <testcase classname="Validate functions of articles" name="logout user" time="0"></testcase>
+</testsuite>
+</testsuites>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Validate functions of auth and profile" errors="0" tests="5" failures="0" time="0.38" timestamp="2021-11-18T20:33:17">
+  <testcase classname="Validate functions of auth and profile" name="validate POST /register" time="0.077"></testcase>
+  <testcase classname="Validate functions of auth and profile" name="validate POST /login" time="0.05"></testcase>
+  <testcase classname="Validate functions of auth and profile" name="validate GET /headline" time="0.094"></testcase>
+  <testcase classname="Validate functions of auth and profile" name="validate PUT /headline" time="0.11"></testcase>
+  <testcase classname="Validate functions of auth and profile" name="validate PUT /logout" time="0.046"></testcase>
+</testsuite>
+</testsuites>
